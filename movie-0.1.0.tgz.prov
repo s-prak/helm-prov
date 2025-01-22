@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+name: movie
+type: application
+version: 0.1.0
+
+...
+files:
+  movie-0.1.0.tgz: sha256:8708262f9bbb13f4eccb7fcb89db07a95df3e02aeae44d0090f134b811a57ab9
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJnkIVACRCkZFO3pAfF9gAAEHsQAEvhoZVehO00Gr2PTXRPg15n
+F/upekXBMmJa9altC+cJoYoIpn1Uqufrldq3WQqiWuiu0yzwLDGsesF3p0ye01mI
+IsoNPWI2Oe4vpegxvGZ5ImiYu4U7qpdQYUhwpMgcW7F5OuzEDyazhK7B50Ypu56r
+STju6FotQjZPsAV7vv5Q1VEBv7Av/cd1u8inB6YRx01cso4Zu6OTuLXN0fUpLqIj
+B3hJAmsd66huZPY3DXLWJyIfnYtbN8WkDG2rtDZj0LJbuB2BOILQg48JQXiCVd4l
+IvSBBW8/9rYAWjI2u0OgJO3ILn2RzP3PFLhsHNO9ZPNV2fKxZJKr00IX/28EzAMT
+Aem9/xuSG1I1/MQnwEFLqvuXRXB06B28kuyHKHQwOg2eG7nkIZce2U6WCYoDFPL7
+V3Br2CRSVPhmt18e67gSxfs8N2w7G6nr6/k/48xW9lyixkwda1ut3tjC2ByCz+aW
+TIK8kPsFLfEBHjXDpVt93uhVUGLFhQpWGX+uMN1wdoHrIHLBjHS9kZtR+M7rcM2k
+Q+a2Pu6Qe2jy9QeoYD/R4wIT7yZHeQGwTvvlbABXGwTHpglUR+jLuATlpNliDtNQ
+iXwpYqOlQjrKhk5s5UtHLK736DlwnSyhzHnCF251CtLHMsQLTkdu+juG8ViDCE/D
+t0Ywmd0IvLGYVWeBzkH8
+=4z8r
+-----END PGP SIGNATURE-----
