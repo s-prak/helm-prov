@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  movie:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-30T11:43:32.190586+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 50703cac2c931a0d08d742ff3fabffaef9d037793e24767a0624f9ae5392299e
+    name: movie
+    type: application
+    urls:
+    - movie-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-30T11:43:32.19015+05:30"
