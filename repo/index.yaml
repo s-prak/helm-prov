@@ -3,7 +3,7 @@ entries:
   movie:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-04T18:28:40.706792+05:30"
+    created: "2025-02-04T19:03:31.754131+05:30"
     description: A Helm chart for Kubernetes
     digest: bc336444b659b00f194c93c91e1bce98f173e53389b60e5dd00eff472dc72837
     name: movie
@@ -13,7 +13,7 @@ entries:
     version: 1.0.0-alpha
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-04T18:28:40.706652+05:30"
+    created: "2025-02-04T19:03:31.75378+05:30"
     description: A Helm chart for Kubernetes
     digest: 50703cac2c931a0d08d742ff3fabffaef9d037793e24767a0624f9ae5392299e
     name: movie
@@ -21,4 +21,4 @@ entries:
     urls:
     - movie-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-04T18:28:40.706444+05:30"
+generated: "2025-02-04T19:03:31.753222+05:30"
